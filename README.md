@@ -1,2 +1,2 @@
 
-### This repository include all of my Data Analytic Projects using Python
+### This repository include all of my Exploratory Data Analysis Projects using Python
